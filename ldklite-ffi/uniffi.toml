@@ -1,0 +1,12 @@
+[bindings.kotlin]
+package_name = "org.lightningdevkit.ldklite"
+cdylib_name = "ldkliteffi"
+
+[bindings.python]
+cdylib_name = "ldkliteffi"
+
+[bindings.ruby]
+cdylib_name = "ldkliteffi"
+
+[bindings.swift]
+cdylib_name = "ldkliteffi"

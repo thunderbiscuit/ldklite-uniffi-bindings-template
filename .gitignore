@@ -1,0 +1,8 @@
+target/
+Cargo.lock
+/ldklite-ffi/ffi-bindgen/Cargo.lock
+.idea/
+local.properties
+ldklite.kt
+libldkliteffi.so
+.DS_Store
